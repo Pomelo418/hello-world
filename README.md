@@ -4,4 +4,4 @@ Hey there!
 
 I know the programming language java pretty well and is learning javascript and swift.
 
-----first edit to my branch :)
+I would love to contribute to interesting projects XD
